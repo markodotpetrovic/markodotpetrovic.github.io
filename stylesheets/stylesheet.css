@@ -358,7 +358,7 @@ Full-Width Styles
 /********************************************************************************************************************************/
 
 #main_content_wrap {
-  background-image: url("http://i.imgur.com/ZEQfPUU.jpg");
+  /*background-image: url("http://i.imgur.com/ZEQfPUU.jpg");
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
 }
