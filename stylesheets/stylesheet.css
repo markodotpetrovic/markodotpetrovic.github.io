@@ -358,9 +358,9 @@ Full-Width Styles
 /********************************************************************************************************************************/
 
 #main_content_wrap {
-  background: #000000;
-  border-top: 1px solid #ff0000;
-  border-bottom: 1px solid #ff0000;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/15/Hopwas_Woods_Sun.jpg");
+  border-top: 1px solid #111;
+  border-bottom: 1px solid #111;
 }
 
 #main_content {
