@@ -50,7 +50,7 @@ Theme Styles
 
 body {
   box-sizing: border-box;
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/15/Hopwas_Woods_Sun.jpg");
+  /*background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/15/Hopwas_Woods_Sun.jpg");*/
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -358,7 +358,7 @@ Full-Width Styles
 /********************************************************************************************************************************/
 
 #main_content_wrap {
-  /*background-image: url("http://i.imgur.com/ZEQfPUU.jpg");
+  /*background-image: url("http://i.imgur.com/ZEQfPUU.jpg");*/
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
 }
