@@ -51,6 +51,8 @@ Theme Styles
 body {
   box-sizing: border-box;
   color:#000000;
+  background-image: url("https://www.dropbox.com/s/qxey3ws7t97cdso/woods.jpg?dl=0");
+  background-color: #cccccc;
   background: #000000;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
