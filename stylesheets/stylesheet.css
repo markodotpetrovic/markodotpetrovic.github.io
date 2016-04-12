@@ -105,7 +105,7 @@ footer p {
 a {
   text-decoration: none;
   color: #ffffff;
-  text-shadow: none;
+  text-shadow: 2px;
 
   transition: color 0.5s ease;
   transition: text-shadow 0.5s ease;
@@ -124,7 +124,7 @@ a:hover, a:focus {text-decoration: underline;}
 footer a {
   color: #ffffff;
   text-decoration: underline;
-  box-shadow: 0 0 5px #ebebeb;
+  text-shadow: none;
 }
 
 em {
@@ -269,7 +269,7 @@ Full-Width Styles
 .inner {
   position: relative;
   max-width: 640px;
-  padding: 80px 10px;
+  padding: 60px 10px;
   margin: 0 auto;
 }
 
