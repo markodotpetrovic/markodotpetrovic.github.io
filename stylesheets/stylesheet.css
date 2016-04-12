@@ -124,6 +124,7 @@ a:hover, a:focus {text-decoration: underline;}
 footer a {
   color: #ffffff;
   text-decoration: underline;
+  box-shadow: 0 0 5px #ebebeb;
 }
 
 em {
