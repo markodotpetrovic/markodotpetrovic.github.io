@@ -1,6 +1,6 @@
 /*******************************************************************************
 Slate Theme for GitHub Pages
-by Jason Costello, @jsncostello
+by Marko Petrovic
 *******************************************************************************/
 
 @import url(github-light.css);
@@ -140,7 +140,7 @@ strong {
 img {
   position: relative;
   margin: 0 auto;
-  max-width: 739px;
+  /*max-width: 1000px;*/
   padding: 5px;
   margin: 10px 0 10px 0;
   /*border: 1px solid #ebebeb;
@@ -292,7 +292,7 @@ Full-Width Styles
 
 #header_wrap {
   background-color: #ffffff;
-  font: #111;
+  font: #333333;
   /*background: -moz-linear-gradient(top, #373737, #212121);
   background: -webkit-linear-gradient(top, #373737, #212121);
   background: -ms-linear-gradient(top, #373737, #212121);
