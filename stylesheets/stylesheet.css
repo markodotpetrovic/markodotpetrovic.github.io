@@ -363,7 +363,7 @@ Full-Width Styles
 /********************************************************************************************************************************/
 
 #three_images{
-    max-width: 1350px;
+    max-width: 1400px;
     max-height: 1000px;
     
   
@@ -372,7 +372,7 @@ Full-Width Styles
 #two_images_left {
   
   max-width: 700px;
-  max-height: 1100px;
+  max-height: 1000px;
 }
 
 #two_images_right {
