@@ -363,24 +363,24 @@ Full-Width Styles
 /********************************************************************************************************************************/
 
 #three_images{
-    max-width: 1500px;
-    max-height: 1200px;
-    padding-bottom:50px;
+    max-width: 1350px;
+    max-height: 1000px;
+    
   
 }
 
 #two_images_left {
   
-  max-width: 750px;
-  max-height: 1200px;
+  max-width: 675px;
+  max-height: 1100px;
 }
 
 #two_images_right {
   margin-top: -1000px;
   margin-bottom: 0px;
   margin-left: 750px;
-  max-width: 750px;
-  max-height: 1200px;
+  max-width: 675px;
+  max-height: 1000px;
 }
 
 #posted_images {
