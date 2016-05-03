@@ -365,7 +365,7 @@ Full-Width Styles
 #three_images{
     max-width: 1425px;
     max-height: 1000px;
-    margin-bottom: 20px;
+    /*margin-bottom: 20px;*/
     
   
 }
