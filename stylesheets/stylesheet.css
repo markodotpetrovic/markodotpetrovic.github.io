@@ -385,7 +385,7 @@ Full-Width Styles
 }
 
 #posted_images {
-  max-width: 50%;
+  width: 50%;
   height: 100%;
   
 }
