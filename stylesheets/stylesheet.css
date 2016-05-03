@@ -401,6 +401,12 @@ Small Device Styles
     display: none;
   }
 
+  .images_inner{
+    
+        min-width: 700px;
+        max-width: 2000px;
+    
+  }
   .inner {
     min-width: 320px;
     max-width: 480px;
