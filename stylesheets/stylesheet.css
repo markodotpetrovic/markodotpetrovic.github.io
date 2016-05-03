@@ -375,8 +375,8 @@ Full-Width Styles
 }
 
 #two_images_right {
-  padding-bottom: 1000px;
-  padding-right: 500px;
+  margin-bottom: 1000px;
+  margin-right: 500px;
   max-width: 750px;
   max-height: 1200px;
 }
