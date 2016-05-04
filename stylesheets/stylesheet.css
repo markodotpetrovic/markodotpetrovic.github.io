@@ -96,9 +96,6 @@ p {
   margin: 10px 0 15px 0;
   color: #ffffff;
 }
-/*********************/
-/***********boja slova************/*******/
-/*********************/
 
 .footer p {
   color: #888888;
@@ -138,10 +135,15 @@ strong {
 }
 
 img {
+
   position: relative;
-  margin: 0 auto;
-  max-width: 700px;
-  padding: 10px;
+  margin: 0px;
+  max-width: 667px;
+  max-height: 1000px;
+  padding: 0px;
+
+
+  padding-bottom:5px;
   /*margin: 10px 0 10px 0;
   border: 1px solid #ebebeb;
 
@@ -360,35 +362,60 @@ Full-Width Styles
   background: url(../images/sprite_download.png) no-repeat top right;
 }
 
-/********************************************************************************************************************************/
+
+
+
+/*******************************************************************************
+Div Styles
+*******************************************************************************/
+#posted_images {
+  /*background-color: #222000;*/
+  
+  max-width: 1427px;
+  height: 100%;
+
+  position: relative;
+  left: 235px;
+
+}
 
 #three_images{
-    max-width: 1425px;
+    /*background-color: #6c7c00;*/
+
+    max-width: 1427px;
     max-height: 1000px;
-    /*margin-bottom: 20px;*/
-    
-  
+
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 0px; 
 }
 
 #two_images_left {
+  /*background-color: #333333;*/
   
-  max-width: 700px;
-  max-height: 1000px;
+  width: 667px;
+  height: 1000px;
+
 }
 
 #two_images_right {
+  /*background-color: #670000;*/
+
+  height: 1000px;
+  width: 667px;
+
+  position: relative;
   margin-top: -1000px;
   margin-bottom: 0px;
-  margin-left: 725px;
-  max-width: 725px;
-  max-height: 1000px;
+  margin-left: 760px;
 }
 
-#posted_images {
-  width: 1500px;
-  height: 100%;
-  
-}
+/*.two_images_right {
+
+  color: #333333;
+}*/
+
+
 
 #main_content_wrap {
   background-color: #f4f4f4;
@@ -398,19 +425,21 @@ Full-Width Styles
   width: 100%;
   /* height: 100%;*/
   /*top: 200px;*/
-  left: 0;
+  left: 0px;
 }
 
 #main_content {
   position: relative;
-  top:100px;
-  bottom: 100px;
+  top:0px;
+  bottom: 0px;
   left:0px;
   padding-top: 0px;
 }
 
 #footer_wrap {
   background: #212121;
+
+  position: relative;
 }
 
 
@@ -428,15 +457,15 @@ Small Device Styles
     display: none;
   }
 
-  .images_inner{
+  /*.images_inner{
     
         min-width: 700px;
         max-width: 2000px;
-    
+  */ 
   }
   .inner {
-    min-width: 320px;
-    max-width: 480px;
+    min-width: 1500px;
+    max-width: 1900px;
   }
 
   #project_title {
