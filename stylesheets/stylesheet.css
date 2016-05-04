@@ -402,7 +402,7 @@ Full-Width Styles
 }
 
 #main_content {
-  position: fixed;
+  position: relative;
   top:100px;
   bottom: 100px;
   right:400px;
