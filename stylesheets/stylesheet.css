@@ -402,6 +402,7 @@ Full-Width Styles
 }
 
 #main_content {
+  position: center;
   padding-top: 0px;
 }
 
